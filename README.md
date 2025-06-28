@@ -1,6 +1,6 @@
 # Operator
 
-playwright version of OpenAi’s Operator.
+playwright version of OpenAI’s Operator.
 
 ## Getting Started
 
