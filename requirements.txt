@@ -1,0 +1,8 @@
+playwright
+langchain_openai
+langchain
+langgraph
+langsmith
+pydantic
+python-dotenv
+jsonschema
