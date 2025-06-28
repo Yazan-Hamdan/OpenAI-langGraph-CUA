@@ -9,8 +9,8 @@ Follow these instructions to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Yazan-Hamdan/Operator
-cd Operator
+git clone https://github.com/Yazan-Hamdan/OpenAI-langGraph-CUA.git
+cd OpenAI-langGraph-CUA
 ```
 
 ### 2. Create a Virtual Environment
